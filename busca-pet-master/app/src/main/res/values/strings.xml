@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">BuscaPet</string>
+
+    <string-array name="racas">
+        <item>Pit-Bull</item>
+        <item>Husky</item>
+        <item>Pastor Alemão</item>
+    </string-array>
+
+    <string-array name="portes">
+        <item>Pequeno</item>
+        <item>Médio</item>
+        <item>Grande</item>
+    </string-array>
+
+    <string-array name="cores">
+        <item>Preto</item>
+        <item>Branco</item>
+        <item>Rajado</item>
+    </string-array>
+
+    <string-array name="estados">
+        <item>SP</item>
+        <item>RJ</item>
+        <item>MG</item>
+    </string-array>
+
+    <string-array name="cidades">
+        <item>Cidade 1</item>
+        <item>Cidade 2</item>
+        <item>Cidade 3</item>
+    </string-array>
+
+    <string-array name="pets">
+        <item>Cachorro</item>
+        <item>Gato</item>
+    </string-array>
+
+    <string-array name="sexo">
+        <item>Macho</item>
+        <item>Fêmea</item>
+    </string-array>
+</resources>
